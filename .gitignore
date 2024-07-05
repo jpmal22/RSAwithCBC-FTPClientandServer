@@ -1,0 +1,10 @@
+# Ignore object files in specific subdirectories
+secure_client/*.o
+secure_server/*.o
+
+# Ignore all log files in any directory
+**/*.log
+
+# Build files
+*.bat
+run.sh
