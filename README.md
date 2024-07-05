@@ -19,6 +19,8 @@ This project implements secure communication with RSA and CBC from an FTP client
 
 ## Usage
 
+- clone the repo git clone https://github.com/jpmal22/RSAwithCBC-FTPClientandServer.git
+
 ### Building the Server
 
 - The server uses a makefile to build the executable
